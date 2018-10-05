@@ -1,3 +1,8 @@
+/*
+	Simple example to create many threads with pthread_create()
+	
+	Created/adapted: dnatividade
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <pthread.h>
