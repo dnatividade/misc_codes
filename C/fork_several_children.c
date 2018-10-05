@@ -13,7 +13,7 @@
 //#define N_CHILDREN	5
 
 int main(int argc, char *argv[]) {
-	if (argc != 1) {
+	if (argc != 2) {
 		printf("\nUsage: %s <number_of_children>\n", argv[0]);
 		printf("E.g.: %s 17\n\n", argv[0]);	
 		return EXIT_FAILURE;
