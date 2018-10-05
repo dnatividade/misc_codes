@@ -1,6 +1,7 @@
 /*
 	Simple example of conversion: STRING to ASCII and HEX
-
+	
+	Created/adapted: dnatividade
 */
 
 #include <stdio.h>
