@@ -11,4 +11,5 @@
 | `malloc-vector.c` | simple example of malloc() use with array |
 | `ptr_func2.c` | example of pointer to function |
 | `separate-tokens.c` | simple example to separete words of a string using strtok() |
+| `swap_var_ptr.c` | simple example to change values between 2 variables using pointers |
 | `threads_simple.c` | simple example to create many threads with pthread_create() |
