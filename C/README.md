@@ -6,9 +6,9 @@
 | `celsius2many.c` | simple example of conversion: degree Celsius to Fahrenheit, Kelvin, Réaumur and Rankine |
 | `char2ascii-hex.c` | simple example of conversion: STRING to ASCII and HEX |
 | `fork_several_children.c` | simple example to create several children process using fork() |
-| `fork_single_child.c` | Simple example to create a child with fork() |
+| `fork_single_child.c` | simple example to create a child with fork() |
 | `malloc-basic.c` | simple example of malloc() use |
 | `malloc-vector.c` | simple example of malloc() use with array |
 | `ptr_func2.c` | example of pointer to function |
-| `separate-tokens.c` | Simple example to separete words of a string using strtok() |
+| `separate-tokens.c` | simple example to separete words of a string using strtok() |
 | `threads_simple.c` | simple example to create many threads with pthread_create() |
