@@ -1,5 +1,8 @@
-// Simple example using memset()
-// Exemplo simples de uso do memset()
+/*
+	Simple example using memset()
+	
+	Created/adapted: dnatividade
+*/
 
 #include <stdio.h> 
 #include <string.h> 
