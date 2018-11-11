@@ -9,6 +9,7 @@
 | `fork_single_child.c` | simple example to create a child with fork() |
 | `malloc-basic.c` | simple example of malloc() use |
 | `malloc-vector.c` | simple example of malloc() use with array |
+| `memset.c` | simple example using memset() |
 | `ptr_func2.c` | example of pointer to function |
 | `separate-tokens.c` | simple example to separete words of a string using strtok() |
 | `strings1.c` | simple example of use string: strlen(), strcmp(), strcat(), strcpy(), strchr(), strstr() |
