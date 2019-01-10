@@ -1,0 +1,8 @@
+#!/bin/sh
+
+IF_NAIVE=naive0
+IP_NAIVE=10.10.10.10
+IP_OTHER=10.10.10.12
+
+ping $IP_OTHER
+
