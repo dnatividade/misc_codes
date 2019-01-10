@@ -1,0 +1,9 @@
+===============
+Aula 12/09/2018
+===============
+
+1)Problema do produtor consumidor:
+A chamada de sistema MMAP pode ser utilizada pra compartilhar memoria entre processos diferentes. Na corrente tarefa, deve-se criar processos que compartilhem uma area de memória. O primeiro tipo de procesos sera o produtor que produzirá numeros inteiros aleatórios. O segundo tipo, será o comsumidor, que consumirá esses números. Um buffer circular será criado na área de memória compartilhada. Para sincroniação deve-se utilizar semáforos POSIX. Processos produtores e consumudores podem ser inicilizados independentemente. Como parâmetro, pode-se informar a velocidade de produção e consumo.
+
+
+

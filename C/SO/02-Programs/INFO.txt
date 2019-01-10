@@ -1,0 +1,16 @@
+===============
+Aula 05/09/2018
+===============
+
+1.1) Criar um programa que sorteie 50 números e os envie para um segundo programa através de uma FIFO.
+1.2) Criar um programa de chat usando uma FIFO.
+
+2) Fazer um programa que crie 10 filhos. Cada filho espera um tempo randômico e acaba. O pai espera cada filho acabar e escreve na tela o número do filho que finalizou.
+
+3) Exercício 5 usando SIGCHLD.
+
+4) Fazer um pequeno interpretador que espera o usuário digitar um comando, execute o mesmo e retorne para que o usuário digite o próximo comando (usar fork e execve).
+
+5) Escrever um programa que mostra o conteúdo de um arquivo de texto usando mmap. O nome do arquivo será passado por argumento.
+
+

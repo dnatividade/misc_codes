@@ -1,0 +1,11 @@
+===============
+Aula 29/08/2018
+===============
+
+1) Fazer um programa que recebe o sinal SIGUSR1. No caso de recepção do sinal, escreve mensagem na tela. Programa principal apresenta seu PID e após isso permanece dormindo.
+
+2) Fazer um programa que crie dois processos filhos. O processo pai deve enviar uma mensagem para o primeiro filho, o primeiro filho deve enviar uma mensagem para o segundo filho, que imprime a mensagem na tela.
+
+3) Criar um programa que recebe como parâmetro o número de filhos (n) e também um outro parâmetro (m). Cada processo filho terá a tarefa de calcular uma aproximação de pi usando o método de Monte-Carlo. Com o sorteio de m pontos. Após o pi calculado para o processo pai. O processo pai irá fazer uma média e apresentar na tela. O processo filho antes de iniciar o processamento, espera um sinal do processo pai. O pai mandará o sinal para os n filhos e após isso receberá o resultado por pipes.
+
+
