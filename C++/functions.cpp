@@ -1,3 +1,4 @@
+//Convert String to hex
 #include <string>
 
 std::string string_to_hex(const std::string& input)
@@ -17,6 +18,8 @@ std::string string_to_hex(const std::string& input)
 }
 ////////////////////////////////////////////////////////////////
 
+
+//Convert Hex to String
 #include <algorithm>
 #include <stdexcept>
 
