@@ -16,6 +16,5 @@ std::string string_to_hex(const std::string& input)
     }
     return output;
 }
-////////////////////////////////////////////////////////////////
 
 //source: https://stackoverflow.com/questions/3381614/c-convert-string-to-hexadecimal-and-vice-versa/11190456
